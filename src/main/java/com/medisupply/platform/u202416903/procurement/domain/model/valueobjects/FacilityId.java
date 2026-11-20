@@ -1,4 +1,4 @@
-package com.medisupply.platform.u202416903.procurement.valueobjects;
+package com.medisupply.platform.u202416903.procurement.domain.model.valueobjects;
 
 public record FacilityId(String value) {
     private static final String NOT_BLANK_MESSAGE_KEY = "procurement.error.facilityId.notBlank";

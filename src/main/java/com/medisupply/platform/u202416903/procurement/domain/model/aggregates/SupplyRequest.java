@@ -1,8 +1,8 @@
-package com.medisupply.platform.u202416903.procurement.aggregates;
+package com.medisupply.platform.u202416903.procurement.domain.model.aggregates;
 
-import com.medisupply.platform.u202416903.procurement.valueobjects.FacilityId;
-import com.medisupply.platform.u202416903.procurement.valueobjects.RequestCode;
-import com.medisupply.platform.u202416903.procurement.valueobjects.SupplyRequestStatus;
+import com.medisupply.platform.u202416903.procurement.domain.model.valueobjects.FacilityId;
+import com.medisupply.platform.u202416903.procurement.domain.model.valueobjects.RequestCode;
+import com.medisupply.platform.u202416903.procurement.domain.model.valueobjects.SupplyRequestStatus;
 import com.medisupply.platform.u202416903.shared.domain.model.valueobjects.FulfillmentPeriod;
 import com.medisupply.platform.u202416903.shared.domain.model.valueobjects.SupplyBatch;
 

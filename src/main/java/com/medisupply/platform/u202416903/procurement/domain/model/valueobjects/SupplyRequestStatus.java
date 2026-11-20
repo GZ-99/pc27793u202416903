@@ -1,4 +1,4 @@
-package com.medisupply.platform.u202416903.procurement.valueobjects;
+package com.medisupply.platform.u202416903.procurement.domain.model.valueobjects;
 
 import java.util.Arrays;
 
